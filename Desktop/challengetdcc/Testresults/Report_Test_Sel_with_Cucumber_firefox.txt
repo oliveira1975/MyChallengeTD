@@ -1,0 +1,50 @@
+@tag
+Feature: I go to the homepage "https://www.getminimalist.com/"
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1601371033101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\railt\\AppData\\Local\\Temp\\rust_mozprofileO8jsb7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601371038134	Marionette	INFO	Listening on port 50892
+1601371038397	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sept. 29, 2020 11:17:18 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by cucumber.deps.com.thoughtworks.xstream.core.util.Fields (file:/C:/Users/railt/.m2/repository/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5.jar) to field java.util.TreeMap.comparator
+WARNING: Please consider reporting this to the maintainers of cucumber.deps.com.thoughtworks.xstream.core.util.Fields
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Step 1 - The refresh was performed successfully!
+Step 2 - The focus was defined to the field successfully!
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Step 3 - The Item 01, Item 02 and Item 03 were added successfully!
+Step 4 - The Item 01, Item 02 and Item 03 were checked successfully!
+Step 5 - The automation Selenium with Cucumber war done successfully!
+1601371047859	Marionette	INFO	Stopped listening on port 50892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+  @tag1
+  Scenario: I visit the web application "https://www.getminimalist.com/"                 # D:/eclipse/myProject/challengetdcc/src/test/resources/AddLisfirefoxcc.feature:4
+    Given I refresh the todo list, to erase old register                                 # AddListfirefoxcc.i_refresh_the_todo_list_to_erase_old_register()
+    When I click in the field Add to your list                                           # AddListfirefoxcc.i_click_in_the_field_Add_to_your_list()
+    Then I can insert into the list "My task 01/03", "My task 02/03" and "My task 03/03" # AddListfirefoxcc.i_can_insert_into_the_list_and(String,String,String)
+    Then I can ckeck all tasks into the list                                             # AddListfirefoxcc.i_can_ckeck_all_tasks_into_the_list()
+    Then I can finalize the test automation                                              # AddListfirefoxcc.i_can_finalize_the_test_automation()
+
+1 Scenarios (1 passed)
+5 Steps (5 passed)
+0m18,493s
