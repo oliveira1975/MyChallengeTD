@@ -69,7 +69,7 @@ Another information:
 
 -Don't forget to adapt the script, to set the folder where you will save the browser driver, e.g.:
 
---> System.setProperty("webdriver.gecko.driver", "D:\\eclipse\\myProject\\challengetdcc\\drivers\\firefox\\geckodriver.exe");
+    System.setProperty("webdriver.gecko.driver", "D:\\eclipse\\myProject\\challengetdcc\\drivers\\firefox\\geckodriver.exe");
 
 -Copy the content from POM.xlm file and past in into your file, in order to Cucumber recognize all .feature files.
 
