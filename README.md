@@ -24,7 +24,7 @@ Please execute the following steps, to test the automation:
 -----------------------------------------------------------------------
 
 
---> Execute im Eclipse the java files:
+--> Execute in Eclipse the java files:
 
     src/test/java/AddListchrome.java
     
@@ -39,7 +39,7 @@ Please execute the following steps, to test the automation:
 -Scenario 2 - Automation Selenium with Eclipse IDE & Cucumber
 -----------------------------------------------------------------------
 
---> Execute im Eclipse the following combination of files:
+--> Execute in Eclipse the following combination of files:
 
     CHROME
     
