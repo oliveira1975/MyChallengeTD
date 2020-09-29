@@ -13,7 +13,7 @@ Data: 28.09.2020
 
 This challenge contains:
 
--Analyse Report: ChallengeTD_Oliveira.pdf
+-Analyse Report: ChallengeTD_Oliveira.pdf (delivered per email!)
 
 -Automation files: Selenium WebDriver/IDE
 
