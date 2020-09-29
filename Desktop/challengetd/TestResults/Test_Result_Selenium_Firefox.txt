@@ -1,0 +1,15 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1601302515655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\railt\\AppData\\Local\\Temp\\rust_mozprofileGBVfMM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601302519619	Marionette	INFO	Listening on port 57272
+1601302519784	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sept. 28, 2020 4:15:19 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Step 1 - The refresh was performed successfully!
+Step 2 - The Items were added successfully!
+Step 3 - The Item 01, Item 02 and Item 03 were checked successfully!

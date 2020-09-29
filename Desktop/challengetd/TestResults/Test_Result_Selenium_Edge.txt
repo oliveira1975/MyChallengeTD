@@ -1,0 +1,12 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting MSEdgeDriver 85.0.564.63 (54dee5e1d729e4c188896f1b1156e98e83557fcc) on port 26570
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping MSEdgeDriver safe.
+MSEdgeDriver was started successfully.
+Sept. 28, 2020 4:13:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Step 1 - The refresh was performed successfully!
+Step 2 - The Items were added successfully!
+Step 3 - The Item 01, Item 02 and Item 03 were checked successfully!
