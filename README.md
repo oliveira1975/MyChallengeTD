@@ -1,6 +1,7 @@
 # MyChallengeTD
 -----------------------------------------------------------------------
 QA Challenge 2020 - TD
+-----------------------------------------------------------------------
 
 Main objective: Analyse of two components for QA automation: API & UI
 
@@ -73,7 +74,7 @@ Another information:
     
     Comment: all browser drives are into the folder DRIVERS.
 
--Copy the content from POM.xlm file and past in into your file, in order to Cucumber recognize all .feature files.
+-Copy the content from POM.xlm file and past in into your POM file, in order to Cucumber recognize all .feature files.
 
 
 
