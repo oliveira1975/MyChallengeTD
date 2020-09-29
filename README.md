@@ -24,19 +24,43 @@ Please execute the following steps, to test the automation:
 
 
 --> Execute im Eclipse the java files:
+
     src/test/java/AddListchrome.java
+    
     src/test/java/AddListedge.java
+    
     src/test/java/AddListfirefox.java
     
---> Check the result files for the compilation into: /TestResults
-
-
     
--->
+--> Check the result files for the compilation into the folder: /TestResults
 
 -----------------------------------------------------------------------
--Scenario 1 - Automation Selenium with Eclipse IDE & Cucumber
+-Scenario 2 - Automation Selenium with Eclipse IDE & Cucumber
 -----------------------------------------------------------------------
+
+--> Execute im Eclipse the following combination of files:
+
+    CHROME
+    
+    src/test/java/challengetdcc/AddListchromecc.java
+    
+    src/test/resources/AddListchromecc.feature
+    
+    EDGE
+    
+    src/test/java/challengetdcc/AddListedgecc.java
+    
+    src/test/resources/AddListedgecc.feature
+    
+    FIREFOX
+    
+    src/test/java/challengetdcc/AddListfirefoxcc.java
+    
+    src/test/resources/AddListfirefoxcc.feature
+    
+    Comment: all files you can find into the folder More_cc_files
+    
+--> Check the result files for the compilation into: /TestResults
 
 
 
