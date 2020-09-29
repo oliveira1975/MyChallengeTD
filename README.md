@@ -18,8 +18,25 @@ This challenge contains:
 
 Please execute the following steps, to test the automation:
 
+-----------------------------------------------------------------------
 -Scenario 1 - Automation Selenium with Eclipse IDE
--Scenario 2 - Automation Selenium with Eclipse IDE & Cucumber
+-----------------------------------------------------------------------
+
+
+--> Execute im Eclipse the java files:
+    src/test/java/AddListchrome.java
+    src/test/java/AddListedge.java
+    src/test/java/AddListfirefox.java
+    
+--> Check the result files for the compilation into: /TestResults
+
+
+    
+-->
+
+-----------------------------------------------------------------------
+-Scenario 1 - Automation Selenium with Eclipse IDE & Cucumber
+-----------------------------------------------------------------------
 
 
 
