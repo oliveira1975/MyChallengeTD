@@ -74,7 +74,7 @@ Another information:
     
     Comment: all browser drives are into the folder DRIVERS.
 
--Copy the content from POM.xlm file and past in into your POM file, in order to Cucumber recognize all .feature files.
+-Copy the content from POM.xlm file and past it into your POM file, in order to Cucumber recognize all .feature files.
 
 
 
