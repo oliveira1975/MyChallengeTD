@@ -7,4 +7,5 @@ Main objective: Analyse of two components for QA automation: API & UI
 QA Engineer: R. Oliveira
 
 Data: 28.09.2020
+
 -----------------------------------------------------------------------
