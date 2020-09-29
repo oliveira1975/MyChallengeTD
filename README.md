@@ -60,11 +60,12 @@ Please execute the following steps, to test the automation:
     
     Comment: all files you can find into the folder: More_cc_files
     
---> Check the result files for the compilation into: /TestResults
+--> Check the result files for the compilation into the folder: /TestResults
 
 -----------------------------------------------------------------------
 
 Another information:
+-----------------------------------------------------------------------
 
 -Don't forget to adapt the script, to set the folder where you will save the browser driver, e.g.:
 
